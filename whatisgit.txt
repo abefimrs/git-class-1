@@ -1,0 +1,15 @@
+About git
+
+ git Is a version control system introduced by Linux travol. The creator of Linux OS.
+
+ What are the key points?
+Git is used to tracking changes in the source code
+The distributed version control tool is used for source code management
+It allows multiple developers to work together
+It supports non-linear development through its thousands of parallel branches
+Who is using git ?
+Microsoft: Git powers the version control behind many of Microsoft’s software projects, including the open-source .NET Core and Visual Studio Code.  
+Google: Google relies on Git for managing the source code for Android, Chromium, and numerous other projects.
+Adobe: Adobe utilizes Git for version control and collaboration across their software development teams.
+
+
